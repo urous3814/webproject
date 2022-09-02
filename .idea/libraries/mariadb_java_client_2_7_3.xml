@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mariadb-java-client-2.7.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/mariadb-java-client-2.7.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/javax.mail-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/javax.mail-api-1.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/activation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/mail-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
